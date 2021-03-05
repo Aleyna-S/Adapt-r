@@ -31,6 +31,7 @@ namespace Adaptör
             Console.WriteLine("Yeni arayüzden sonra");
             Console.WriteLine(_hedef.İstek(5));
             Console.ReadKey();
+
         }
     }
 }
